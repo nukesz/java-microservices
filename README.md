@@ -10,7 +10,9 @@ With this comparison people can immaterially see what's the difference between t
 
 ## Comparison
 
-Matrix will come here...
+| Microservice | Mem Usage | ... |
+|--------------|:---------:|----:|
+| Spring Boot  |  266.9MiB |     |
 
 ## Contribution
 If you have a microservice example, just send a pull request to add to list.
