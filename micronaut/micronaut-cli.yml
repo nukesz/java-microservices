@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.nukesz.microservices
+---
+testFramework: spek
+sourceLanguage: kotlin
