@@ -1,8 +1,9 @@
-java-microservices
-==========
+# java-microservices
+
 Compare java microservices
 
 ## Motivation
+
 Today is hard to choose between java libraries/frameworks to build a new microservice.
 This repository is intended to help people to oversee what's currently available on the market and compare those.
 
@@ -10,10 +11,12 @@ With this comparison people can immaterially see what's the difference between t
 
 ## Comparison
 
-| Microservice | Mem Usage | Startup time | ... |
-|--------------|:---------:|:------------:|----:|
-| Spring Boot  |  267MiB   |      ??ms    |----:|
-| Micronaut    |  131MiB   |     974ms    |----:|
+| Microservice | Mem Usage | Startup time |   ... |
+| ------------ | :-------: | :----------: | ----: |
+| Spring Boot  |  267MiB   |     ??ms     | ----: |
+| Micronaut    | 131.1MiB  |    974ms     | ----: |
+| Quarkus      | 89.46MiB  |    448ms     | ----: |
 
 ## Contribution
+
 If you have a microservice example, just send a pull request to add to list.
