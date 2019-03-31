@@ -13,7 +13,7 @@ With this comparison people can immaterially see what's the difference between t
 
 | Microservice | Mem Usage | Startup time |   ... |
 | ------------ | :-------: | :----------: | ----: |
-| Spring Boot  |  267MiB   |     ??ms     | ----: |
+| Spring Boot  |  267MiB   |    2202ms    | ----: |
 | Micronaut    | 131.1MiB  |    974ms     | ----: |
 | Quarkus      | 89.46MiB  |    448ms     | ----: |
 
