@@ -19,3 +19,7 @@ services:
     build: javalin
     ports:
       - '8084:7000'
+  tomee:
+    build: tomee
+    ports:
+      - '8085:8080'
