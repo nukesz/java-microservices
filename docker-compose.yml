@@ -23,3 +23,9 @@ services:
     build: tomee
     ports:
       - '8085:8080'
+  helidon-se:
+    build: helidon-se/target
+    ports:
+      - '8086:8080'
+
+  

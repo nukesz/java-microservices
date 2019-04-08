@@ -1,4 +1,5 @@
 # java-microservices
+[![Build Status](https://travis-ci.com/nukesz/java-microservices.svg?branch=master)](https://travis-ci.com/nukesz/java-microservices)
 
 Compare java microservices
 
