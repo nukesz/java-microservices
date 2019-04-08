@@ -1,0 +1,21 @@
+version: '3'
+
+services:
+  spring-boot:
+    build: spring-boot
+    ports:
+      - '8081:8080'
+  micronaut:
+    build: micronaut
+    ports:
+      - '8082:8080'
+  quarkus:
+    build:
+      context: quarkus
+      dockerfile: src/main/docker/Dockerfile.jvm
+    ports:
+      - '8083:8080'
+  javalin:
+    build: javalin
+    ports:
+      - '8084:7000'
