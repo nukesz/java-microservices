@@ -11,12 +11,12 @@ With this comparison people can immaterially see what's the difference between t
 
 ## Comparison
 
-| Microservice | Mem Usage | Startup time |   ... |
-| ------------ | :-------: | :----------: | ----: |
-| Spring Boot  |  267MiB   |    2202ms    | ----: |
-| Micronaut    | 131.1MiB  |    974ms     | ----: |
-| Quarkus      | 89.46MiB  |    448ms     | ----: |
-| Javalin      | 47.22MiB  |    172ms     | ----: |
+| Microservice | Version       | Mem Usage | Startup time |   ... |
+| ------------ | :-----------: | :-------: | :----------: | ----: |
+| Spring Boot  | 2.1.0.RELEASE | 267MiB    |    2202ms    | ----: |
+| Micronaut    | 1.0.1         | 131.1MiB  |    974ms     | ----: |
+| Quarkus      | 0.12.0        | 89.46MiB  |    448ms     | ----: |
+| Javalin      | 2.8.0         | 47.22MiB  |    172ms     | ----: |
 
 ## Contribution
 
